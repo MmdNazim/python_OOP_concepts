@@ -1,4 +1,3 @@
-                                                                                    #PART-1
 """
 Docstring for oop_access_modifier:
 ----------------------------------
